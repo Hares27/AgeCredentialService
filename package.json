@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "hs-ssi-sdk": "github:hypersign-protocol/hid-ssi-js-sdk",
+    "hypersign-auth-node-sdk": "^6.2.0"
+  },
+  "type": "module"
+}
